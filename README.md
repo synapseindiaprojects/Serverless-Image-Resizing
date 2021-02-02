@@ -1,4 +1,4 @@
-#Serverless Image Resizing
+# Serverless Image Resizing
 
 Description
 
